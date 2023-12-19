@@ -1,0 +1,9 @@
+@media only screen and (max-width: 1100px) {
+    .mainBodyContainer
+    {
+        flex-direction: column;
+    }
+    input{
+        display: none;
+    };
+}
